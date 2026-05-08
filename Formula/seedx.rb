@@ -4,7 +4,7 @@
 class Seedx < Formula
   desc "Coding agent harness CLI"
   homepage "https://github.com/iFurySt/seedx"
-  url "https://github.com/iFurySt/seedx/releases/download/v0.2.0/ifuryst-seedx-0.2.0.tgz"
+  url "https://github.com/iFurySt/homebrew-seedx/releases/download/seedx-v0.2.0/ifuryst-seedx-0.2.0.tgz"
   sha256 "3bcf7db4b9d6ac431ddb7da51d9257f6c663b2da25b5d5f1e62aacb4d563e2cd"
   version "0.2.0"
   license "MIT"
