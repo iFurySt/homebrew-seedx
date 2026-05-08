@@ -4,9 +4,9 @@
 class Seedx < Formula
   desc "Coding agent harness CLI"
   homepage "https://github.com/iFurySt/seedx"
-  url "https://registry.npmjs.org/@ifuryst/seedx/-/seedx-0.1.0.tgz"
-  sha256 "0c95fda002e078c95b8c25cea6a1c5ce9ee57a21f4f3fc7f7d5717df7263f37c"
-  version "0.1.0"
+  url "https://github.com/iFurySt/seedx/releases/download/v0.2.0/ifuryst-seedx-0.2.0.tgz"
+  sha256 "3bcf7db4b9d6ac431ddb7da51d9257f6c663b2da25b5d5f1e62aacb4d563e2cd"
+  version "0.2.0"
   license "MIT"
 
   def install
